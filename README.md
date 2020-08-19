@@ -3,4 +3,9 @@ Subir archivos con nodejs, express, body express, connect-multiparty
 
 #Demostración
 
-![alt tag](http://i68.tinypic.com/2jbsl60.jpg)
+y manejo terminal 
+node app.js 
+
+web interface http://localhost:3000/ 
+
+
